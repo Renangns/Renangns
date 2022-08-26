@@ -91,7 +91,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renangns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
      
-![Snake animation](https://github.com/Renangns/Renangns/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Renangns/Renangns/blob/output/github-contribution-grid-snake.svg) -->
      
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
